@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!--
+   
+ O nasal cria as variaveis, e nomeia as portas para animacao
+ em seguida sao pegos as portas e animadas.
+ se houverem mais portas, acrescentar no nasal,
+ lembrando que a numeracao comeca com 0 (zero)
+ Rotina escrita por Aurino das Neves - BR-NVS
+ Licenca GPL
+ Grupo FGBr - 24/01/2014
+ 
+ Eu nao sou louco, o povo eh que nao entende minha lucidez.
+ Raul Seixas.
+ 
+ -->
+
+<PropertyList>
+	<path>cmteferraz.ac</path>
+	<nasal>
+  <load>
+   if (!contains(globals, "scenery")) globals["scenery"] = {};
+   if (!contains(scenery, "cmte")) scenery["cmte"] = {};
+   if (!contains(scenery.cmte, "ferraz")) scenery.cmte["ferraz"] = [nil];
+   scenery.cmte.ferraz[0] =
+     { door :
+       [aircraft.door.new("/scenery/cmte/ferraz[0]/door[0]", 25),
+      	aircraft.door.new("/scenery//cmte/ferraz[0]/door[1]", 25),
+       ]
+     };
+  </load>
+ </nasal>
+ 
+ <animation>
+ <type>range</type>
+ <min-m>0</min-m>
+ <max-m>25000</max-m>
+</animation>
+
+<!-- Porta de vidro 1 e 2 -->
+
+<animation>
+ <type>pick</type>
+ <object-name>portaesq</object-name>
+ <object-name>portadir</object-name>
+ <visible>true</visible>
+ <action>
+  <name>click</name>
+  <button>0</button>
+  <repeatable>false</repeatable>
+  <binding>
+   <command>nasal</command>
+   <script>scenery.cmte.ferraz[0].door[0].toggle();</script>
+  </binding>
+ </action>
+</animation>
+ 
+<animation>
+ <type>translate</type>
+ <object-name>portadir</object-name>
+ <property>/scenery/cmte/ferraz[0]/door[0]/position-norm</property>
+ <factor>1.5</factor>
+ <axis>
+  <x>0.0</x>
+  <y>2.99999</y>
+  <z>-0.01</z>
+ </axis>
+</animation>
+
+<animation>
+ <type>translate</type>
+ <object-name>portaesq</object-name>
+ <property>/scenery/cmte/ferraz[0]/door[0]/position-norm</property>
+ <factor>1.5</factor>
+ <axis>
+  <x>0.0</x>
+  <y>-2.99999</y>
+  <z>-0.01</z>
+ </axis>
+</animation>
+
+<!-- portao garagem -->
+
+ <animation>
+ <type>rotate</type>
+ <object-name>portaoc</object-name>
+ <object-name>portaob</object-name>
+ <property>/scenery/cmte/ferraz[0]/door[1]/position-norm</property>
+ <interpolation>
+		<entry>
+			<ind>0.0</ind>
+			<dep>0</dep>
+		</entry>
+		<entry>
+			<ind>0.15</ind>
+			<dep>90</dep>
+		</entry>
+		<entry>
+			<ind>0.65</ind>
+			<dep>90</dep>
+		</entry>
+		<entry>
+			<ind>1.0</ind>
+			<dep>0</dep>
+		</entry>
+	</interpolation>
+	<axis>
+		<x1-m>5.08185</x1-m>
+		<y1-m>-18.045</y1-m>
+		<z1-m>3.16035</z1-m>
+		<x2-m>5.08185</x2-m>
+		<y2-m>-25.545</y2-m>
+		<z2-m>3.16035</z2-m>
+	</axis>
+</animation>
+
+<animation>
+ <type>pick</type>
+ <object-name>portaoc</object-name>
+ <visible>true</visible>
+ <action>
+  <name>click</name>
+  <button>0</button>
+  <repeatable>True</repeatable>
+  <binding>
+   <command>nasal</command>
+   <script>scenery.cmte.ferraz[0].door[1].toggle();</script>
+  </binding>
+ </action>
+</animation>
+
+<animation>
+ <type>rotate</type>
+ <object-name>portaob</object-name>
+ <property>/scenery/cmte/ferraz[0]/door[1]/position-norm</property>
+ <interpolation>
+		<entry>
+			<ind>0.0</ind>
+			<dep>0</dep>
+		</entry>
+		<entry>
+			<ind>0.15</ind>
+			<dep>178</dep>
+		</entry>
+		<entry>
+			<ind>0.65</ind>
+			<dep>178</dep>
+		</entry>
+		<entry>
+			<ind>0.0</ind>
+			<dep>0</dep>
+		</entry>
+	</interpolation>
+	<axis>
+		<x1-m>5.09357</x1-m>
+		<y1-m>-25.545</y1-m>
+		<z1-m>2.05239</z1-m>
+		<x2-m>5.09357</x2-m>
+		<y2-m>-18.045</y2-m>
+		<z2-m>2.05239</z2-m>
+	</axis>
+</animation>
+
+<animation>
+ <type>pick</type>
+ <object-name>portaob</object-name>
+ <visible>true</visible>
+ <action>
+  <name>click</name>
+  <button>0</button>
+  <repeatable>True</repeatable>
+  <binding>
+   <command>nasal</command>
+   <script>scenery.cmte.ferraz[0].door[1].toggle();</script>
+  </binding>
+ </action>
+</animation>	
+
+</PropertyList>

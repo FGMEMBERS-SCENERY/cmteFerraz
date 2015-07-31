@@ -1,0 +1,101 @@
+#Terreno
+OBJECT_SHARED Models/Estacao_cmteferraz/BASE_Cmdtferraz.xml -58.33999573 -62.07751888 78.6527 32.7
+OBJECT_SHARED Models/Estacao_cmteferraz/BASE_Cmdtferraz.xml -58.45085151 -62.02970897 97.2869 302.5
+OBJECT_SHARED Models/Estacao_cmteferraz/BASE_Cmdtferraz.xml -58.21721999 -62.03932137 262.9132 20.0
+#Estacao Antartida Comandante Ferraz
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/Estacao_cmteferraz.xml -58.34166977 -62.09691942 -0.4541 304.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/box_estacao_pp.xml -58.34236244-62.09635081 -0.0175 32.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/box_estacao_pp.xml -58.34296398-62.09657947 -0.0122 32.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/box_estacao.xml -58.34031323 -62.09644098 -0.0394 308.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/box_estacao.xml -58.33969145 -62.09578828 -0.0177 296.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/box_estacao.xml -58.33941176 -62.09572282 -0.0179 292.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/box_estacao.xml -58.33861266 -62.09735752 -0.0966 300.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/box_estacao_p.xml -58.33875713 -62.09738253 -0.0962 296.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/box_estacao.xml -58.33873805 -62.09749186 -0.1008 300.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/torre.xml -58.33894083 -62.09744877 -0.0970 28.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/box_estacao_pp.xml -58.34231617 -62.09819116 -0.0887 20.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/box_estacao_p.xml -58.34219772 -62.09819365 -0.0905 112.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/box_estacao.xml -58.34249966 -62.09827144 -0.0897 296.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/contineine.xml -58.34191677 -62.09637559 -0.0260 304.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/contineine.xml -58.34197982 -62.09638620 -0.0164 304.0
+#NAVIO H44
+OBJECT_SHARED Models/Estacao_cmteferraz/H44/H44.xml -58.35076125 -62.09261818 -0.1460 136.0
+OBJECT_SHARED Models/Estacao_cmteferraz/beacon2.xml -58.35102975 -62.09275083 11.4871 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.35136394 -62.09291280 25.5135 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.35122844 -62.09282889 22.6413 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.35119019 -62.09284569 22.6841 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.35107825 -62.09271427 28.1246 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.35095348 -62.09277102 28.1246 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.35015921 -62.09242078 8.2632 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.35033513 -62.09250504 8.2699 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.35053181 -62.09241512 8.2755 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.35036127 -62.09233008 8.2644 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.35024023 -62.09236525 8.6865 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.35024707 -62.09246216 8.2675 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.35044866 -62.09237286 8.2670 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.35043529 -62.09245771 8.6766 0.0
+#Luzes
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34206011 -62.09667755 13.7533 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34196683 -62.09699880 9.5944 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.33943764 -62.09577046 -0.0196 120.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.33956880 -62.09579872 -0.0195 112.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.34025591 -62.09640601 -0.0388 192.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.34096198 -62.09691938 -0.0526 56.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.34072622 -62.09696091 -0.0573 56.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.34044131 -62.09700863 -0.0628 72.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.33882815 -62.09736178 -0.0946 240.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.33865921 -62.09744432 -0.0998 168.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.33913599 -62.09729784 -0.0890 240.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.33944516 -62.09723425 -0.0828 240.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.34012594 -62.09708433 -0.0694 48.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.33972978 -62.09715313 -0.0767 228.0
+OBJECT_SHARED Models/Estacao_cmteferraz/beacon2.xml -58.33893366 -62.09745516 5.5138 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.33889649 -62.09746654 13.3033 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.33893770 -62.09747704 13.3033 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.33895977 -62.09743234 13.3034 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/strobe10000.xml -58.33894112 -62.09744681 15.3472 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.34226882 -62.09821879 -0.0907 96.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Lights2.xml -58.34239695 -62.09827371 -0.0914 108.0
+OBJECT_SHARED Models/Estacao_cmteferraz/strobe10000.xml -58.35102093 -62.09274344 27.7808 0.0
+#heliponto
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34133722 -62.09629931 3.4360 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34108039 -62.09647864 3.4359 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34096611 -62.09618092 3.4363 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34070986 -62.09636143 3.4361 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34122650 -62.09626269 3.4361 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34108444 -62.09621891 3.4362 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34095321 -62.09643887 3.4360 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34082677 -62.09639943 3.4360 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34087303 -62.09624492 3.4362 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34078837 -62.09630356 3.4362 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34125084 -62.09636113 3.4360 0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34115951 -62.09642403 3.4359 0.0
+#NOVABASE
+OBJECT_SHARED Models/Estacao_cmteferraz/Novacmte_ferraz/cmteferraz.xml -58.34608621 -62.09818859 1.5497 208.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/torre.xml -58.34646837 -62.09888
+081 -0.0608 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/beacon2.xml -58.34647035 -62.09888818 5.4381 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34648440 -62.09771779 0.8825 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34624553 -62.09792333 0.8823 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34668538 -62.09803790 0.8823 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34671583 -62.09777393 0.8825 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34646458 -62.09798205 0.8823 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34692014 -62.09783130 0.8825 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34681492 -62.09792796 0.8824 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34659955 -62.09774238 0.8825 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34635539 -62.09795218 0.8823 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34641912 -62.09777099 0.8824 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34635534 -62.09782351 0.8824 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34630023 -62.09787423 0.8823 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34682029 -62.09779793 0.8825 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34657029 -62.09800604 0.8823 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34686905 -62.09787958 0.8824 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34675086 -62.09798721 0.8823 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34653844 -62.09832410 5.0988 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34625046 -62.09846476 7.4347 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34578055 -62.09834817 7.4346 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34596929 -62.09818334 5.0987 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34536252 -62.09802986 5.0989 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/RedLight10000.xml -58.34525813 -62.09821810 7.4347 0.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/Bandeira _Brasil.xml -58.34472861 -62.09776073 -0.2373 320.0 0.0 -0.0
+OBJECT_SHARED Models/Estacao_cmteferraz/Estacao/Antenas2.ac -58.34566480 -62.09832012 7.1481 308.5 0.0 -0.0

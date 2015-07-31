@@ -1,0 +1,17 @@
+Instalação:
+
+1º-Faça um backup dos seus arquivos originais da pasta (Models e scenery).
+
+
+2º-Copie a pasta --Models-- e cole a pasta em flightgear/data, substituindo pelo existente.
+
+
+3º-Copie a pasta --scenery-- e cole no destino que seu jogo usa({scenery}-fora ou dentro de data)
+-recomendo colocar nos dois para aqueles que não sabem, substituindo pelo existente.
+
+
+4º- Pronto, as bases foram instaladas com sucesso, agora é só se devertir.
+
+GrupoFGBR deseja a todos bons vôos.
+
+Forte abraço.

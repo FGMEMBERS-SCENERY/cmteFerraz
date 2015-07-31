@@ -1,0 +1,116 @@
+AC3Db
+MATERIAL "ac3dmat1" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.2 0.2 0.2  shi 128  trans 0
+MATERIAL "ac3dmat4" rgb 1 0.467 0  amb 1 0.467 0  emis 0 0 0  spec 0.2 0.2 0.2  shi 128  trans 0
+MATERIAL "ac3dmat7" rgb 0.196 0.529 0.263  amb 0.196 0.529 0.263  emis 0 0 0  spec 0 0 0  shi 128  trans 0
+OBJECT world
+kids 9
+OBJECT poly
+name "chapas"
+loc -3.50415 1.03619 0.844418
+texture "janelas.png"
+crease 45.000000
+numvert 4
+4.44482 -1.05374 -1.79803
+2.53071 -1.05374 -1.79803
+2.53071 0.947046 -1.79803
+4.44482 0.947046 -1.79803
+numsurf 1
+SURF 0x10
+mat 0
+refs 4
+3 1 1.03125
+0 1 -0.0703125
+1 0 -0.0703125
+2 2.98023e-008 1.03125
+kids 0
+OBJECT poly
+name "Plane"
+loc 79.4562 -67.2971 -26.574
+crease 45.000000
+kids 0
+OBJECT poly
+name "Plane.001"
+loc 79.4562 -67.2971 -26.574
+crease 45.000000
+kids 0
+OBJECT poly
+name "Plane.002"
+loc 79.4562 -67.2971 -26.574
+crease 45.000000
+kids 0
+OBJECT poly
+name "Plane.003"
+loc 79.4562 -67.2971 -26.574
+crease 45.000000
+kids 0
+OBJECT poly
+name "Plane.004"
+loc 79.4562 -67.2971 -26.574
+crease 45.000000
+kids 0
+OBJECT poly
+name "chapas"
+loc 3.47143 1.03619 -0.844408
+crease 45.000000
+numvert 8
+-4.44482 -1.05374 1.79803
+-4.44482 -1.05374 -0.109216
+-2.53071 -1.05374 -0.109216
+-2.53071 -1.05374 1.79803
+-2.53071 0.947046 1.79803
+-2.53071 0.947046 -0.109216
+-4.44482 0.947046 -0.109216
+-4.44482 0.947046 1.79803
+numsurf 2
+SURF 0x10
+mat 2
+refs 4
+6 0 0
+1 1 0
+0 1 1
+7 0 1
+SURF 0x10
+mat 2
+refs 4
+4 0 0
+3 1 0
+2 1 1
+5 0 1
+kids 0
+OBJECT poly
+name "telhado"
+loc 3.47143 1.70567 -0.844403
+crease 45.000000
+numvert 4
+-4.44482 0.277575 1.79803
+-4.44482 0.277575 -0.109222
+-2.53071 0.277575 -0.109222
+-2.53071 0.277575 1.79803
+numsurf 1
+SURF 0x10
+mat 1
+refs 4
+0 0 0
+3 1 0
+2 1 1
+1 0 1
+kids 0
+OBJECT poly
+name "chapas"
+loc 3.47143 1.03619 -0.844408
+texture "janelas.png"
+crease 45.000000
+numvert 4
+-4.44482 0.947046 1.79803
+-2.53071 0.947046 1.79803
+-2.53071 -1.05374 1.79803
+-4.44482 -1.05374 1.79803
+numsurf 1
+SURF 0x10
+mat 0
+refs 4
+0 1 1.03125
+3 1 -0.0703125
+2 0 -0.0703125
+1 2.98023e-008 1.03125
+kids 0
